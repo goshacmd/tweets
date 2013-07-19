@@ -746,7 +746,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -843,7 +843,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -877,7 +877,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -1322,7 +1322,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "ryanbigg",
       "protected" : false,
       "id_str" : "14506011",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3635015016/bfe58238414baf7cb45ab5fd7b1909e9_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261574630139/89da8eec2d2380ecf45c83d924587dcc_normal.jpeg",
       "id" : 14506011,
       "verified" : false
     }
@@ -2398,7 +2398,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Purity Pixels",
+      "name" : "Pixels",
       "screen_name" : "purtypixels",
       "indices" : [ 0, 12 ],
       "id_str" : "910498676",
@@ -7579,7 +7579,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2731353536/d90565944c47034fd7288f40c09bb2c4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000002624014/7593cf26bb65bd1f61c4274391bf9132_normal.jpeg",
       "id" : 18247541,
       "verified" : false
     }

@@ -557,7 +557,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/663892623/thomas_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261566498938/7503f6226cd2457318ccb0c36a97ea01_normal.jpeg",
       "id" : 6927562,
       "verified" : false
     }

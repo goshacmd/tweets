@@ -464,7 +464,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30BC\u30FC",
+      "name" : "\u8D3C",
       "screen_name" : "thezeist",
       "indices" : [ 3, 12 ],
       "id_str" : "100964199",
@@ -503,7 +503,7 @@ Grailbird.data.tweets_2012_01 =
     "id" : 163899203238625280,
     "created_at" : "Mon Jan 30 08:19:49 +0000 2012",
     "user" : {
-      "name" : "\u30BC\u30FC",
+      "name" : "\u8D3C",
       "screen_name" : "thezeist",
       "protected" : false,
       "id_str" : "100964199",
@@ -873,7 +873,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -907,7 +907,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -941,7 +941,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -3115,7 +3115,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -3183,11 +3183,11 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wavii",
+      "name" : "wavii boii1212",
       "screen_name" : "wavii",
       "indices" : [ 18, 24 ],
-      "id_str" : "21543692",
-      "id" : 21543692
+      "id_str" : "1468577538",
+      "id" : 1468577538
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3362,7 +3362,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "lindseybieda",
       "protected" : false,
       "id_str" : "14928483",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2970656742/c05364a0cd9717952b4c851294d37cf9_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000083669843/c4532f2e8ea74741ec3118ca0cd56fcb_normal.jpeg",
       "id" : 14928483,
       "verified" : false
     }
@@ -3705,7 +3705,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -3928,7 +3928,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "TheDeadSerious",
       "protected" : false,
       "id_str" : "6151392",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3704777934/d5ccd985ca3f1398820eb033bf3936ff_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3718326228/d5ccd985ca3f1398820eb033bf3936ff_normal.jpeg",
       "id" : 6151392,
       "verified" : false
     }
@@ -4087,7 +4087,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "mthie",
       "protected" : false,
       "id_str" : "3253641",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2175293115/fbfoto_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000001094931/adf83697b2922b03e17d02d45640f3f4_normal.jpeg",
       "id" : 3253641,
       "verified" : false
     }
@@ -4565,7 +4565,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 0, 13 ],
       "id_str" : "97924067",
@@ -5064,7 +5064,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5098,7 +5098,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5853,7 +5853,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5887,7 +5887,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5921,7 +5921,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 0, 13 ],
       "id_str" : "97924067",
@@ -7431,7 +7431,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Saltb0x",
+      "name" : "Akhil Tolani",
       "screen_name" : "Saltb0x",
       "indices" : [ 0, 8 ],
       "id_str" : "222540906",
@@ -7465,7 +7465,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Saltb0x",
+      "name" : "Akhil Tolani",
       "screen_name" : "Saltb0x",
       "indices" : [ 0, 8 ],
       "id_str" : "222540906",
@@ -7499,7 +7499,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Saltb0x",
+      "name" : "Akhil Tolani",
       "screen_name" : "Saltb0x",
       "indices" : [ 0, 8 ],
       "id_str" : "222540906",
@@ -8828,7 +8828,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "jonikorpi",
       "protected" : false,
       "id_str" : "15907249",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2994963513/19dced9844306fa15dceafec1904d110_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000001243637/9a5db5a6a3a10ff10a285e7661a0b3fc_normal.jpeg",
       "id" : 15907249,
       "verified" : false
     }
@@ -9133,7 +9133,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -9270,7 +9270,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 0, 13 ],
       "id_str" : "97924067",
@@ -9309,7 +9309,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 0, 13 ],
       "id_str" : "97924067",
@@ -9888,7 +9888,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -10086,7 +10086,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 85, 99 ],
       "id_str" : "173238497",
@@ -10362,7 +10362,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 0, 13 ],
       "id_str" : "97924067",
@@ -10541,7 +10541,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "74594552",
       "id" : 74594552
     }, {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 10, 23 ],
       "id_str" : "97924067",
@@ -13177,7 +13177,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 0, 13 ],
       "id_str" : "97924067",
@@ -13211,7 +13211,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 0, 13 ],
       "id_str" : "97924067",
@@ -13245,7 +13245,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 0, 13 ],
       "id_str" : "97924067",
@@ -13279,7 +13279,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 0, 13 ],
       "id_str" : "97924067",
@@ -13313,7 +13313,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A6\u30E9\u30B8\u30B9\u30E9\u30D5\u3000\u30B3\u30ED\u30C8\u30CD\u30D5",
+      "name" : "\u8D64\u5742\u3000\u7ADC\u4E4B\u4ECB",
       "screen_name" : "vladkorotnev",
       "indices" : [ 0, 13 ],
       "id_str" : "97924067",

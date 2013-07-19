@@ -153,7 +153,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A \u0414\u0438\u0432\u0430\u043D\u043E\u0432",
+      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A",
       "screen_name" : "Devyatov",
       "indices" : [ 3, 12 ],
       "id_str" : "85319333",
@@ -204,7 +204,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 57051056592531457,
     "created_at" : "Sun Apr 10 12:03:26 +0000 2011",
     "user" : {
-      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A \u0414\u0438\u0432\u0430\u043D\u043E\u0432",
+      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A",
       "screen_name" : "Devyatov",
       "protected" : false,
       "id_str" : "85319333",

@@ -79,7 +79,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A \u0414\u0438\u0432\u0430\u043D\u043E\u0432",
+      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A",
       "screen_name" : "Devyatov",
       "indices" : [ 0, 9 ],
       "id_str" : "85319333",

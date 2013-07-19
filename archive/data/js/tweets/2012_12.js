@@ -287,7 +287,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -349,7 +349,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -393,7 +393,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -732,7 +732,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 24, 38 ],
       "id_str" : "173238497",
@@ -778,7 +778,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 24, 38 ],
       "id_str" : "173238497",
@@ -824,7 +824,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 24, 38 ],
       "id_str" : "173238497",
@@ -870,7 +870,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 24, 38 ],
       "id_str" : "173238497",
@@ -916,7 +916,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 24, 38 ],
       "id_str" : "173238497",
@@ -962,7 +962,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 24, 38 ],
       "id_str" : "173238497",
@@ -1008,7 +1008,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 24, 38 ],
       "id_str" : "173238497",
@@ -1082,7 +1082,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "84687985",
       "id" : 84687985
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 14, 28 ],
       "id_str" : "173238497",
@@ -1128,7 +1128,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "84687985",
       "id" : 84687985
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 14, 28 ],
       "id_str" : "173238497",
@@ -1174,7 +1174,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "84687985",
       "id" : 84687985
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 14, 28 ],
       "id_str" : "173238497",
@@ -1682,7 +1682,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A \u0414\u0438\u0432\u0430\u043D\u043E\u0432",
+      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A",
       "screen_name" : "Devyatov",
       "indices" : [ 3, 12 ],
       "id_str" : "85319333",
@@ -1723,7 +1723,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 285424960716038144,
     "created_at" : "Sun Dec 30 16:39:48 +0000 2012",
     "user" : {
-      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A \u0414\u0438\u0432\u0430\u043D\u043E\u0432",
+      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A",
       "screen_name" : "Devyatov",
       "protected" : false,
       "id_str" : "85319333",
@@ -2150,7 +2150,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2184,7 +2184,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2775,7 +2775,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2809,7 +2809,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -4893,7 +4893,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/663892623/thomas_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261566498938/7503f6226cd2457318ccb0c36a97ea01_normal.jpeg",
       "id" : 6927562,
       "verified" : false
     }
@@ -5048,7 +5048,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5864,7 +5864,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5898,7 +5898,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6275,7 +6275,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6309,7 +6309,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6343,7 +6343,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6405,7 +6405,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6439,7 +6439,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6479,7 +6479,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -6519,7 +6519,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -6564,7 +6564,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -6604,7 +6604,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -6644,7 +6644,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -6684,7 +6684,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -6724,7 +6724,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -6758,7 +6758,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -7229,7 +7229,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -7297,7 +7297,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -7354,7 +7354,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -7411,7 +7411,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -7445,7 +7445,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -7513,7 +7513,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8602,7 +8602,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8636,7 +8636,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8670,7 +8670,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8772,7 +8772,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -9017,7 +9017,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "homakov",
       "protected" : false,
       "id_str" : "86890115",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3601486840/ce804f24fafc54a4190c1634ed031180_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000093304110/b0ee6aef263c73ec85710e426f7477e4_normal.jpeg",
       "id" : 86890115,
       "verified" : false
     }
@@ -9316,7 +9316,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -9535,7 +9535,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -9572,7 +9572,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -9641,7 +9641,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -9681,7 +9681,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -9749,7 +9749,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -10007,7 +10007,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -10134,7 +10134,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/663892623/thomas_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261566498938/7503f6226cd2457318ccb0c36a97ea01_normal.jpeg",
       "id" : 6927562,
       "verified" : false
     }
@@ -10453,7 +10453,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "_dte",
       "protected" : false,
       "id_str" : "23082430",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3397045978/1449f27a46290fde2f74991d84205e9f_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000147849125/75815bea514eee02e2ec551374195be5_normal.jpeg",
       "id" : 23082430,
       "verified" : false
     }
@@ -10794,7 +10794,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11081,7 +11081,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Fenring",
       "protected" : false,
       "id_str" : "18213388",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1131627591/1aa8e4bd916ax_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000152708865/066fc55e9e6566a9d3ae9e40b864b6ed_normal.jpeg",
       "id" : 18213388,
       "verified" : false
     }
@@ -11135,7 +11135,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11169,7 +11169,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11237,7 +11237,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -12330,7 +12330,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -12370,7 +12370,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -12444,7 +12444,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -12484,7 +12484,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -12518,7 +12518,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -14537,7 +14537,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -14571,7 +14571,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -15341,7 +15341,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -15409,7 +15409,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -15518,17 +15518,12 @@ Grailbird.data.tweets_2012_12 =
       "display_url" : "cl.ly/image/113B2F2y\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "274919253730271232",
   "geo" : {
   },
   "id_str" : "274919588247003136",
-  "in_reply_to_user_id" : 483880246,
   "text" : "@ivnqd I kind of like taking photos instead of screenshots. But if you want a screenshot \u2014 here it is http://t.co/RzCiJA0P",
   "id" : 274919588247003136,
-  "in_reply_to_status_id" : 274919253730271232,
   "created_at" : "Sat Dec 01 16:55:12 +0000 2012",
-  "in_reply_to_screen_name" : "ivnqd",
-  "in_reply_to_user_id_str" : "483880246",
   "user" : {
     "name" : "Gosha Arinich",
     "screen_name" : "goshakkk",

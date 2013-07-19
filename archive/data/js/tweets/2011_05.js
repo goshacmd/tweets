@@ -329,7 +329,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041B\u043E\u0442\u043E\u0446\u043A\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440",
+      "name" : "Alexander Lototsky",
       "screen_name" : "allotus",
       "indices" : [ 3, 11 ],
       "id_str" : "42840408",
@@ -364,7 +364,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 70558718764396544,
     "created_at" : "Tue May 17 18:38:04 +0000 2011",
     "user" : {
-      "name" : "\u041B\u043E\u0442\u043E\u0446\u043A\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440",
+      "name" : "Alexander Lototsky",
       "screen_name" : "allotus",
       "protected" : false,
       "id_str" : "42840408",

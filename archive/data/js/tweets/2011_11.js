@@ -649,7 +649,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A \u0414\u0438\u0432\u0430\u043D\u043E\u0432",
+      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A",
       "screen_name" : "Devyatov",
       "indices" : [ 0, 9 ],
       "id_str" : "85319333",
@@ -843,7 +843,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple & Mac News",
+      "name" : "Apple News & Tips",
       "screen_name" : "osxdaily",
       "indices" : [ 13, 22 ],
       "id_str" : "64591787",
@@ -2267,7 +2267,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0410\u0440\u0442\u0451\u043C \u0422\u0438\u043C\u043E\u0444\u0435\u0435\u0432",
+      "name" : "Artem Timofeev",
       "screen_name" : "Timofeev",
       "indices" : [ 0, 9 ],
       "id_str" : "18015942",
@@ -4931,7 +4931,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -4971,7 +4971,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5011,7 +5011,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5051,7 +5051,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5091,7 +5091,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5411,7 +5411,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2731353536/d90565944c47034fd7288f40c09bb2c4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000002624014/7593cf26bb65bd1f61c4274391bf9132_normal.jpeg",
       "id" : 18247541,
       "verified" : false
     }
@@ -5591,7 +5591,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Purity Pixels",
+      "name" : "Pixels",
       "screen_name" : "purtypixels",
       "indices" : [ 0, 12 ],
       "id_str" : "910498676",
@@ -5772,7 +5772,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "gilesgoatboy",
       "protected" : false,
       "id_str" : "1341781",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3637931202/dc3325a28ddc01520139bec56b181b43_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000117380786/376852281c3967f24de0cd1298aaa8bb_normal.jpeg",
       "id" : 1341781,
       "verified" : false
     }
@@ -7095,7 +7095,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Purity Pixels",
+      "name" : "Pixels",
       "screen_name" : "purtypixels",
       "indices" : [ 0, 12 ],
       "id_str" : "910498676",
@@ -9665,7 +9665,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "newsycombinator",
       "protected" : false,
       "id_str" : "14335498",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/52589204/y_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000017952599/cf443a6da9a74e5c9c1fcddf422ebb0e_normal.png",
       "id" : 14335498,
       "verified" : false
     }
@@ -11715,7 +11715,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "pamelafox",
       "protected" : false,
       "id_str" : "10483202",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3164456889/89734f17878dcde35be90e614da40bc3_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3778702621/b0fb8f52850f227c846c4de58ca50b4d_normal.png",
       "id" : 10483202,
       "verified" : false
     }
@@ -12462,7 +12462,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 137841122969001984,
   "in_reply_to_status_id" : 137840810388492288,
   "created_at" : "Sat Nov 19 10:34:19 +0000 2011",
-  "in_reply_to_screen_name" : "empiriker_",
+  "in_reply_to_screen_name" : "mstottrop",
   "in_reply_to_user_id_str" : "373212798",
   "user" : {
     "name" : "Gosha Arinich",
@@ -12794,7 +12794,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple & Mac News",
+      "name" : "Apple News & Tips",
       "screen_name" : "osxdaily",
       "indices" : [ 0, 9 ],
       "id_str" : "64591787",
@@ -12828,7 +12828,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple & Mac News",
+      "name" : "Apple News & Tips",
       "screen_name" : "osxdaily",
       "indices" : [ 0, 9 ],
       "id_str" : "64591787",
@@ -12862,7 +12862,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple & Mac News",
+      "name" : "Apple News & Tips",
       "screen_name" : "osxdaily",
       "indices" : [ 0, 9 ],
       "id_str" : "64591787",
@@ -12896,7 +12896,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple & Mac News",
+      "name" : "Apple News & Tips",
       "screen_name" : "osxdaily",
       "indices" : [ 0, 9 ],
       "id_str" : "64591787",
@@ -13223,7 +13223,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr.doob",
+      "name" : "Mr.d\u00F2_\u00F3b",
       "screen_name" : "mrdoob",
       "indices" : [ 3, 10 ],
       "id_str" : "20733754",
@@ -13262,7 +13262,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 137504449575919616,
     "created_at" : "Fri Nov 18 12:16:30 +0000 2011",
     "user" : {
-      "name" : "Mr.doob",
+      "name" : "Mr.d\u00F2_\u00F3b",
       "screen_name" : "mrdoob",
       "protected" : false,
       "id_str" : "20733754",
@@ -13788,7 +13788,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "matiasleidemer",
       "protected" : false,
       "id_str" : "14112812",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3684185938/680c5b65c1dfd3c50e2e3cec2af59123_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000115234513/8350ca49fb36bac9c2bdf139c3f513a0_normal.png",
       "id" : 14112812,
       "verified" : false
     }
@@ -13873,7 +13873,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A \u0414\u0438\u0432\u0430\u043D\u043E\u0432",
+      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A",
       "screen_name" : "Devyatov",
       "indices" : [ 0, 9 ],
       "id_str" : "85319333",
@@ -14268,7 +14268,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "warrenm",
       "protected" : false,
       "id_str" : "14311088",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598366721/headshot_sm_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000081037304/6825ea556e45044baef7aeaf220394c9_normal.png",
       "id" : 14311088,
       "verified" : false
     }
@@ -16654,7 +16654,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Iamsebj",
       "protected" : false,
       "id_str" : "83568175",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2623287363/oprf8u8laarkcnxrjgub_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000147321785/0aa2de90cea7d913bccaa308b28c53d0_normal.png",
       "id" : 83568175,
       "verified" : false
     }
@@ -16935,7 +16935,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Sutto",
       "protected" : false,
       "id_str" : "5099921",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1767661430/Sutto__Avatar__normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261569379010/d263d895aef232007c870e1d3482fa15_normal.jpeg",
       "id" : 5099921,
       "verified" : false
     }
@@ -17843,7 +17843,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -17877,7 +17877,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -17916,7 +17916,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -17953,7 +17953,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -17987,7 +17987,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -18824,7 +18824,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/663892623/thomas_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261566498938/7503f6226cd2457318ccb0c36a97ea01_normal.jpeg",
       "id" : 6927562,
       "verified" : false
     }
@@ -19103,7 +19103,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Mickeleh",
       "protected" : false,
       "id_str" : "13413",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1765951086/315074_10150391447987578_758212577_10389318_304112196_n_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000112081347/d2eda1398e27a4677eabc53ae1ce4119_normal.jpeg",
       "id" : 13413,
       "verified" : false
     }
@@ -19697,7 +19697,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -19780,7 +19780,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/663892623/thomas_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261566498938/7503f6226cd2457318ccb0c36a97ea01_normal.jpeg",
       "id" : 6927562,
       "verified" : false
     }
@@ -20695,7 +20695,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple & Mac News",
+      "name" : "Apple News & Tips",
       "screen_name" : "osxdaily",
       "indices" : [ 0, 9 ],
       "id_str" : "64591787",
@@ -20729,7 +20729,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple & Mac News",
+      "name" : "Apple News & Tips",
       "screen_name" : "osxdaily",
       "indices" : [ 0, 9 ],
       "id_str" : "64591787",
@@ -21164,7 +21164,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/663892623/thomas_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261566498938/7503f6226cd2457318ccb0c36a97ea01_normal.jpeg",
       "id" : 6927562,
       "verified" : false
     }
@@ -23167,7 +23167,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "nemshilov",
       "protected" : false,
       "id_str" : "97637670",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1786770935/image_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000023931655/c66002f1bc53a9b36350acbeebc1d7a6_normal.jpeg",
       "id" : 97637670,
       "verified" : false
     }
@@ -23578,7 +23578,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Purity Pixels",
+      "name" : "Pixels",
       "screen_name" : "purtypixels",
       "indices" : [ 22, 34 ],
       "id_str" : "910498676",
@@ -26220,7 +26220,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 133508400641351681,
   "in_reply_to_status_id" : 133508010294247424,
   "created_at" : "Mon Nov 07 11:37:37 +0000 2011",
-  "in_reply_to_screen_name" : "empiriker_",
+  "in_reply_to_screen_name" : "mstottrop",
   "in_reply_to_user_id_str" : "373212798",
   "user" : {
     "name" : "Gosha Arinich",
@@ -26271,10 +26271,10 @@ Grailbird.data.tweets_2011_11 =
     "created_at" : "Mon Nov 07 11:36:04 +0000 2011",
     "user" : {
       "name" : "Max",
-      "screen_name" : "empiriker_",
+      "screen_name" : "mstottrop",
       "protected" : false,
       "id_str" : "373212798",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3323421905/9441eff2211beb642cd056d5a88751af_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000049745245/8d276a0746444ef543b1235992ba7b82_normal.jpeg",
       "id" : 373212798,
       "verified" : false
     }
@@ -27468,7 +27468,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Purity Pixels",
+      "name" : "Pixels",
       "screen_name" : "purtypixels",
       "indices" : [ 0, 12 ],
       "id_str" : "910498676",
@@ -27672,7 +27672,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Purity Pixels",
+      "name" : "Pixels",
       "screen_name" : "purtypixels",
       "indices" : [ 0, 12 ],
       "id_str" : "910498676",
@@ -27774,7 +27774,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Purity Pixels",
+      "name" : "Pixels",
       "screen_name" : "purtypixels",
       "indices" : [ 0, 12 ],
       "id_str" : "910498676",
@@ -28778,7 +28778,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Purity Pixels",
+      "name" : "Pixels",
       "screen_name" : "purtypixels",
       "indices" : [ 0, 12 ],
       "id_str" : "910498676",
@@ -30316,7 +30316,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Purity Pixels",
+      "name" : "Pixels",
       "screen_name" : "purtypixels",
       "indices" : [ 0, 12 ],
       "id_str" : "910498676",
@@ -33325,7 +33325,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Purity Pixels",
+      "name" : "Pixels",
       "screen_name" : "purtypixels",
       "indices" : [ 3, 15 ],
       "id_str" : "910498676",
@@ -33961,7 +33961,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",

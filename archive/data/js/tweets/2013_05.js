@@ -1,5 +1,2224 @@
 Grailbird.data.tweets_2013_05 = 
-[ {
+ [ {
+  "source" : "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Duolingo",
+      "screen_name" : "duolingo",
+      "indices" : [ 20, 29 ],
+      "id_str" : "107238136",
+      "id" : 107238136
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340552390690344961",
+  "text" : "French dictation on @duolingo is TERRIBLE.",
+  "id" : 340552390690344961,
+  "created_at" : "Fri May 31 19:36:31 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 65, 87 ],
+      "url" : "http://t.co/pDUpxXryFQ",
+      "expanded_url" : "http://news.cnet.com/8301-13578_3-57587003-38/judge-orders-google-to-comply-with-fbis-secret-nsl-demands/",
+      "display_url" : "news.cnet.com/8301-13578_3-5\u2026"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340535937815691265",
+  "text" : "Yay 4th amendment ^W^W use of public fear to abuse govt\u2019s powers http://t.co/pDUpxXryFQ",
+  "id" : 340535937815691265,
+  "created_at" : "Fri May 31 18:31:09 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340532226376740864",
+  "text" : "Why are Twitter &amp; LinkedIn so ignorant? Why do they think it\u2019s all-good to offer SMS as the _only_ TFA option?",
+  "id" : 340532226376740864,
+  "created_at" : "Fri May 31 18:16:24 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 34, 56 ],
+      "url" : "http://t.co/T258d4bB2Y",
+      "expanded_url" : "http://buff.ly/p4XonT",
+      "display_url" : "buff.ly/p4XonT"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340529383473295360",
+  "text" : "A visual explanation of SQL joins http://t.co/T258d4bB2Y",
+  "id" : 340529383473295360,
+  "created_at" : "Fri May 31 18:05:06 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 68, 90 ],
+      "url" : "http://t.co/oL2bdaQsB6",
+      "expanded_url" : "http://buff.ly/RreQhu",
+      "display_url" : "buff.ly/RreQhu"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340481344943558656",
+  "text" : "How I Turned Down $300,000 from Microsoft to go Full-Time on GitHub http://t.co/oL2bdaQsB6",
+  "id" : 340481344943558656,
+  "created_at" : "Fri May 31 14:54:13 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Caleb Davenport",
+      "screen_name" : "calebd",
+      "indices" : [ 0, 7 ],
+      "id_str" : "17641648",
+      "id" : 17641648
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340296545960345600",
+  "geo" : {
+  },
+  "id_str" : "340323512457764864",
+  "in_reply_to_user_id" : 17641648,
+  "text" : "@calebd cache. Instagram doesn\u2019t delete it ever. Use PhoneClean to delete it.",
+  "id" : 340323512457764864,
+  "in_reply_to_status_id" : 340296545960345600,
+  "created_at" : "Fri May 31 04:27:02 +0000 2013",
+  "in_reply_to_screen_name" : "calebd",
+  "in_reply_to_user_id_str" : "17641648",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Honza Pokorny",
+      "screen_name" : "_honza",
+      "indices" : [ 3, 10 ],
+      "id_str" : "15277447",
+      "id" : 15277447
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340176050040487936",
+  "text" : "RT @_honza: English is a dynamically typed language.",
+  "retweeted_status" : {
+    "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tw\u0435\u0435tbot for Mac</a>",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : {
+    },
+    "id_str" : "340174573142151170",
+    "text" : "English is a dynamically typed language.",
+    "id" : 340174573142151170,
+    "created_at" : "Thu May 30 18:35:13 +0000 2013",
+    "user" : {
+      "name" : "Honza Pokorny",
+      "screen_name" : "_honza",
+      "protected" : false,
+      "id_str" : "15277447",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/473103073/honza_red_shirt_normal.jpg",
+      "id" : 15277447,
+      "verified" : false
+    }
+  },
+  "id" : 340176050040487936,
+  "created_at" : "Thu May 30 18:41:05 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Honza Pokorny",
+      "screen_name" : "_honza",
+      "indices" : [ 0, 7 ],
+      "id_str" : "15277447",
+      "id" : 15277447
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340174573142151170",
+  "geo" : {
+  },
+  "id_str" : "340175871883231232",
+  "in_reply_to_user_id" : 15277447,
+  "text" : "@_honza a/the feel like the type inferred from the context.",
+  "id" : 340175871883231232,
+  "in_reply_to_status_id" : 340174573142151170,
+  "created_at" : "Thu May 30 18:40:22 +0000 2013",
+  "in_reply_to_screen_name" : "_honza",
+  "in_reply_to_user_id_str" : "15277447",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Honza Pokorny",
+      "screen_name" : "_honza",
+      "indices" : [ 0, 7 ],
+      "id_str" : "15277447",
+      "id" : 15277447
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340174573142151170",
+  "geo" : {
+  },
+  "id_str" : "340175861087080448",
+  "in_reply_to_user_id" : 15277447,
+  "text" : "@_honza it definitely is, compared to German. Gender/case specific articles feel so much like static typing, \u2026",
+  "id" : 340175861087080448,
+  "in_reply_to_status_id" : 340174573142151170,
+  "created_at" : "Thu May 30 18:40:20 +0000 2013",
+  "in_reply_to_screen_name" : "_honza",
+  "in_reply_to_user_id_str" : "15277447",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 39, 61 ],
+      "url" : "http://t.co/beSb9ibcdD",
+      "expanded_url" : "http://buff.ly/1avMJBG",
+      "display_url" : "buff.ly/1avMJBG"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340167003279073280",
+  "text" : "Four Steps to Google, Without a Degree http://t.co/beSb9ibcdD",
+  "id" : 340167003279073280,
+  "created_at" : "Thu May 30 18:05:08 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twitter",
+      "screen_name" : "twitter",
+      "indices" : [ 107, 115 ],
+      "id_str" : "783214",
+      "id" : 783214
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340118981581099009",
+  "text" : "LMAO at web apps offering two factor authentication *only* with SMS and not via OTP apps. (looking at you, @twitter)",
+  "id" : 340118981581099009,
+  "created_at" : "Thu May 30 14:54:18 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340074068999036928",
+  "text" : "So\u2026 why are there no CC-BTC exchanges that do that?",
+  "id" : 340074068999036928,
+  "created_at" : "Thu May 30 11:55:50 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340074016935124992",
+  "text" : "No exchange sells BTC for CC bc of chargeback risk. Well\u2026 requiring txn being completed with MC 3DS/VbV would drastically reduce the risk.",
+  "id" : 340074016935124992,
+  "created_at" : "Thu May 30 11:55:38 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dima",
+      "screen_name" : "dmitry_master",
+      "indices" : [ 0, 14 ],
+      "id_str" : "173238497",
+      "id" : 173238497
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340068107517304833",
+  "geo" : {
+  },
+  "id_str" : "340070379924094977",
+  "in_reply_to_user_id" : 173238497,
+  "text" : "@dmitry_master \u043D\u0443 \u0438 \u043D\u0430\u0441\u0447\u0435\u0442 \u0432\u043E\u0440\u0434\u0438\u043D\u0433\u0430, \u201Cbirthday evenT\u2026\u201D maybe? \u0418 \u0435\u0449\u0435 \u0433\u043E\u0432\u043E\u0440\u044F\u0442 \u201Ccelebrates _his/her/their_ birthday\u201D.",
+  "id" : 340070379924094977,
+  "in_reply_to_status_id" : 340068107517304833,
+  "created_at" : "Thu May 30 11:41:11 +0000 2013",
+  "in_reply_to_screen_name" : "dmitry_master",
+  "in_reply_to_user_id_str" : "173238497",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dima",
+      "screen_name" : "dmitry_master",
+      "indices" : [ 0, 14 ],
+      "id_str" : "173238497",
+      "id" : 173238497
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340068107517304833",
+  "geo" : {
+  },
+  "id_str" : "340069886757838851",
+  "in_reply_to_user_id" : 173238497,
+  "text" : "@dmitry_master \u0430 \u043F\u043E\u0447\u0435\u043C\u0443 \u0431\u044B \u0438\u043C\u043F\u043E\u0440\u0442 \u0432 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 \u043D\u0435 \u043F\u0435\u0440\u0435\u043D\u0435\u0441\u0442\u0438? \u0418\u043C\u043E\u0440\u0442 \u044F\u0432\u043D\u043E \u0436\u0435 \u043D\u0435 \u0447\u0442\u043E-\u0442\u043E, \u0447\u0442\u043E \u0434\u0435\u043B\u0430\u044E\u0442 \u043F\u0440\u0438 \u043A\u0430\u0436\u0434\u043E\u043C \u0437\u0430\u043F\u0443\u0441\u043A\u0435 \u0430\u043F\u043F\u0430",
+  "id" : 340069886757838851,
+  "in_reply_to_status_id" : 340068107517304833,
+  "created_at" : "Thu May 30 11:39:13 +0000 2013",
+  "in_reply_to_screen_name" : "dmitry_master",
+  "in_reply_to_user_id_str" : "173238497",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u041A\u043E\u043F\u0447\u0435\u043D\u044B\u0439 \u043A\u0430\u0431\u0430\u043D\u0447\u0438\u043A",
+      "screen_name" : "dreamfa11",
+      "indices" : [ 0, 10 ],
+      "id_str" : "90591009",
+      "id" : 90591009
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340068356327632897",
+  "geo" : {
+  },
+  "id_str" : "340069255762542592",
+  "in_reply_to_user_id" : 90591009,
+  "text" : "@dreamfa11 \u0435\u0441\u043B\u0438 \u0442\u0430\u043A, \u0442\u043E \u043A\u0440\u0443\u0442\u043E.",
+  "id" : 340069255762542592,
+  "in_reply_to_status_id" : 340068356327632897,
+  "created_at" : "Thu May 30 11:36:43 +0000 2013",
+  "in_reply_to_screen_name" : "dreamfa11",
+  "in_reply_to_user_id_str" : "90591009",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u041A\u043E\u043F\u0447\u0435\u043D\u044B\u0439 \u043A\u0430\u0431\u0430\u043D\u0447\u0438\u043A",
+      "screen_name" : "dreamfa11",
+      "indices" : [ 0, 10 ],
+      "id_str" : "90591009",
+      "id" : 90591009
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340067015643521024",
+  "geo" : {
+  },
+  "id_str" : "340067636547317761",
+  "in_reply_to_user_id" : 90591009,
+  "text" : "@dreamfa11 \u0430 \u0432 \u041A\u043E\u043B\u043E\u0440\u0430\u0434\u043E \u044D\u0442\u043E\u0442 \u0440\u044B\u043D\u043E\u043A \u0431\u0443\u0434\u0435\u0442 \u043E\u0442\u043A\u0440\u044B\u0442 \u0434\u043B\u044F \u0432\u0441\u0435\u0445 \u043F\u043E\u0445\u043E\u0434\u0443.",
+  "id" : 340067636547317761,
+  "in_reply_to_status_id" : 340067015643521024,
+  "created_at" : "Thu May 30 11:30:17 +0000 2013",
+  "in_reply_to_screen_name" : "dreamfa11",
+  "in_reply_to_user_id_str" : "90591009",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u041A\u043E\u043F\u0447\u0435\u043D\u044B\u0439 \u043A\u0430\u0431\u0430\u043D\u0447\u0438\u043A",
+      "screen_name" : "dreamfa11",
+      "indices" : [ 0, 10 ],
+      "id_str" : "90591009",
+      "id" : 90591009
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340067015643521024",
+  "geo" : {
+  },
+  "id_str" : "340067526329380864",
+  "in_reply_to_user_id" : 90591009,
+  "text" : "@dreamfa11 \u201CNew law to come  [\u2026] allowing [\u2026] only Dutch residents who are at least 18 yo can register but all foreigners will be banned\u201D",
+  "id" : 340067526329380864,
+  "in_reply_to_status_id" : 340067015643521024,
+  "created_at" : "Thu May 30 11:29:51 +0000 2013",
+  "in_reply_to_screen_name" : "dreamfa11",
+  "in_reply_to_user_id_str" : "90591009",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u041A\u043E\u043F\u0447\u0435\u043D\u044B\u0439 \u043A\u0430\u0431\u0430\u043D\u0447\u0438\u043A",
+      "screen_name" : "dreamfa11",
+      "indices" : [ 0, 10 ],
+      "id_str" : "90591009",
+      "id" : 90591009
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340066683244908545",
+  "geo" : {
+  },
+  "id_str" : "340066886429585408",
+  "in_reply_to_user_id" : 90591009,
+  "text" : "@dreamfa11 \u0430 \u0442\u0430\u043C \u0441 \u043D\u0430\u0447\u0430\u043B\u0430 \u044D\u0442\u043E\u0433\u043E \u0433\u043E\u0434\u0430 \u0437\u0430\u043F\u0440\u0435\u0442\u0438\u043B\u0438 \u0444\u043E\u0440\u0435\u0439\u043D\u0438\u0440\u0430\u043C \u043F\u043E\u0441\u0435\u0449\u0430\u0442\u044C weed cafe, \u0442\u0430\u043A \u0447\u0442\u043E \u043D\u0435 \u0432\u0430\u0440\u0438\u0430\u043D\u0442 :)",
+  "id" : 340066886429585408,
+  "in_reply_to_status_id" : 340066683244908545,
+  "created_at" : "Thu May 30 11:27:18 +0000 2013",
+  "in_reply_to_screen_name" : "dreamfa11",
+  "in_reply_to_user_id_str" : "90591009",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u041A\u043E\u043F\u0447\u0435\u043D\u044B\u0439 \u043A\u0430\u0431\u0430\u043D\u0447\u0438\u043A",
+      "screen_name" : "dreamfa11",
+      "indices" : [ 0, 10 ],
+      "id_str" : "90591009",
+      "id" : 90591009
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340064118297989120",
+  "geo" : {
+  },
+  "id_str" : "340064559270342656",
+  "in_reply_to_user_id" : 90591009,
+  "text" : "@dreamfa11 \u044F, \u0432 \u043B\u044E\u0431\u043E\u043C \u0441\u043B\u0443\u0447\u0430\u0435, \u043F\u043E\u0441\u043B\u0435 18-\u043B\u0435\u0442\u0438\u044F \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u043F\u043E\u0435\u0437\u0434\u043A\u0438 \u0432 \u0421\u0428\u0410 \u0442\u0435\u043F\u0435\u0440\u044C \u0441\u043C\u043E\u0433\u0443 \u0421\u0434\u0435\u043B\u0430\u0442\u044C \u042D\u0442\u043E\u2122, \u043B\u0435\u0433\u0430\u043B\u044C\u043D\u043E, \u043D\u0435\u0434\u043E\u0440\u043E\u0433\u043E, \u0438 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E.",
+  "id" : 340064559270342656,
+  "in_reply_to_status_id" : 340064118297989120,
+  "created_at" : "Thu May 30 11:18:03 +0000 2013",
+  "in_reply_to_screen_name" : "dreamfa11",
+  "in_reply_to_user_id_str" : "90591009",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340063844107948032",
+  "text" : "And now it is time to get marijuana off the Schedule 1 federally, or else DEA could still do something to marijuana-users.",
+  "id" : 340063844107948032,
+  "created_at" : "Thu May 30 11:15:13 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 71, 93 ],
+      "url" : "http://t.co/vIH4f5YScL",
+      "expanded_url" : "http://www.huffingtonpost.com/2013/05/28/hickenlooper-signs-colora_n_3346798.html?ncid=edlinkusaolp00000003",
+      "display_url" : "huffingtonpost.com/2013/05/28/hic\u2026"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340063206980583425",
+  "text" : "The state of Colorado finally establishes a legal market for marijuana http://t.co/vIH4f5YScL",
+  "id" : 340063206980583425,
+  "created_at" : "Thu May 30 11:12:41 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 21, 43 ],
+      "url" : "http://t.co/9lLcbjHLZG",
+      "expanded_url" : "http://buff.ly/10Y5sQW",
+      "display_url" : "buff.ly/10Y5sQW"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340046220959563776",
+  "text" : "Years of irrelevance http://t.co/9lLcbjHLZG",
+  "id" : 340046220959563776,
+  "created_at" : "Thu May 30 10:05:11 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340025342750257152",
+  "geo" : {
+  },
+  "id_str" : "340025881974161409",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u0438 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E \u0434\u0435\u043B\u0430\u0435\u0442\u0435 :) \u041E\u0442 \u044D\u0442\u043E\u0433\u043E \u0433\u0438\u0433\u0430\u043D\u0442\u0441\u043A\u043E\u0433\u043E \u0436\u0435\u043B\u0430\u043D\u0438\u044F \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u043B\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0430\u0431\u0441\u043E\u043B\u044E\u0442\u043D\u043E \u0432\u0441\u0435 \u0434\u043E \u0442\u0430\u043A\u043E\u0439 \u0441\u0442\u0435\u043F\u0435\u043D\u0438 \u0432 \u044D\u0442\u043E\u0439 \u0441\u0442\u0440\u0430\u043D\u0435 \u0443\u0436\u0435 \u0442\u043E\u0448\u043D\u0438\u0442",
+  "id" : 340025881974161409,
+  "in_reply_to_status_id" : 340025342750257152,
+  "created_at" : "Thu May 30 08:44:22 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u041F\u0430\u0432\u043B\u0438\u043A",
+      "screen_name" : "Devyatov",
+      "indices" : [ 0, 9 ],
+      "id_str" : "85319333",
+      "id" : 85319333
+    }, {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 10, 21 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340023736176627713",
+  "geo" : {
+  },
+  "id_str" : "340023947083005954",
+  "in_reply_to_user_id" : 85319333,
+  "text" : "@Devyatov @AlfabankBY \u0434\u0430 \u0438 \u0443 \u0411\u0435\u043B\u0433\u0430\u0437\u043F\u0440\u043E\u043C\u0431\u0430\u043D\u043A\u0430 \u0435\u0441\u0442\u044C \u043E\u043F\u043B\u0430\u0442\u0430 \u0414\u0430\u043C\u0430\u0432\u0438\u043A\u0430. \u0412\u0438\u0434\u0438\u043C\u043E, \u043E\u043D\u0438 \u0434\u043E \u044F\u043D\u0432\u0430\u0440\u044F \u0437\u0430\u043A\u043B\u044E\u0447\u0438\u043B\u0438 \u0434\u043E\u0433\u043E\u0432\u043E\u0440, \u043A\u043E\u0433\u0434\u0430 \u0435\u0449\u0435 \u043C\u043E\u0436\u043D\u043E \u0431\u044B\u043B\u043E.",
+  "id" : 340023947083005954,
+  "in_reply_to_status_id" : 340023736176627713,
+  "created_at" : "Thu May 30 08:36:40 +0000 2013",
+  "in_reply_to_screen_name" : "Devyatov",
+  "in_reply_to_user_id_str" : "85319333",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340023002676752384",
+  "geo" : {
+  },
+  "id_str" : "340023364322226176",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u043E\u0445 \u0443\u0436 \u044D\u0442\u043E\u0442 \u0442\u0443\u043F\u043E\u0439 \u041D\u0430\u0446\u0431\u0430\u043D\u043A. \u042F\u0441\u043D\u043E.",
+  "id" : 340023364322226176,
+  "in_reply_to_status_id" : 340023002676752384,
+  "created_at" : "Thu May 30 08:34:22 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340021442739568640",
+  "geo" : {
+  },
+  "id_str" : "340022591165173761",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u043A\u0441\u0442\u0430\u0442\u0438, \u043D\u0430\u0441\u0447\u0435\u0442 \u043F\u043B\u0430\u0442\u0435\u0436\u0435\u0439, \u0430 \u043F\u043E\u0447\u0435\u043C\u0443 \u0443 \u0432\u0430\u0441 \u0410\u0442\u043B\u0430\u043D\u0442 \u0422\u0435\u043B\u0435\u043A\u043E\u043C\u0430 \u043D\u0435\u0442? \u041F\u043B\u0430\u0442\u0438\u0442\u044C \u0437\u0430 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0447\u0435\u0440\u0435\u0437 WebPay \u043D\u0435 \u0443\u0434\u043E\u0431\u043D\u043E.",
+  "id" : 340022591165173761,
+  "in_reply_to_status_id" : 340021442739568640,
+  "created_at" : "Thu May 30 08:31:17 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "340019984736583680",
+  "geo" : {
+  },
+  "id_str" : "340020674137571328",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u043C\u0435\u0434\u043B\u0435\u043D\u043D\u043E \u043A\u0430\u043A-\u0442\u043E :) \u0410 \u0447\u0442\u043E \u0434\u043E\u0431\u0430\u0432\u0438\u0442\u044C \u043F\u043B\u0430\u043D\u0438\u0440\u0443\u0435\u0442\u0435 \u043D\u043E\u0432\u043E\u0433\u043E \u0432 \u044D\u0442\u043E\u043C/\u0441\u043B. \u043C\u0435\u0441\u044F\u0446\u0435?",
+  "id" : 340020674137571328,
+  "in_reply_to_status_id" : 340019984736583680,
+  "created_at" : "Thu May 30 08:23:40 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 107, 129 ],
+      "url" : "http://t.co/vmzZquPAdf",
+      "expanded_url" : "http://habrahabr.ru/special/alfabank/alfaclick20/#/step-1",
+      "display_url" : "habrahabr.ru/special/alfaba\u2026"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "340018775204192256",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u0443 \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u0410\u0411 \u0443\u0436\u0435 \u041A\u043B\u0438\u043A 2.0, \u0431\u043E\u043B\u0435\u0435 \u043A\u0440\u0430\u0441\u0438\u0432\u044B\u0439 \u0438 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439, \u0430 \u0443 \u0432\u0430\u0441 \u043E\u043D \u0432\u043E\u043E\u0431\u0449\u0435/\u043A\u043E\u0433\u0434\u0430 \u0431\u0443\u0434\u0435\u0442? http://t.co/vmzZquPAdf",
+  "id" : 340018775204192256,
+  "created_at" : "Thu May 30 08:16:07 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339839137479786498",
+  "text" : "\u2026 in fear and thieving a part of their income IS a crime; ML &amp; tax evasion are merely the means of self-defense.",
+  "id" : 339839137479786498,
+  "created_at" : "Wed May 29 20:22:18 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339839059566424064",
+  "text" : "There are people who consider \u201Cmoney laundering\u201D and \u201Ctax evasion\u201D the crimes\u2026 for real. Just to set it clear, keeping millions of people\u2026",
+  "id" : 339839059566424064,
+  "created_at" : "Wed May 29 20:22:00 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 46, 68 ],
+      "url" : "http://t.co/IyNL8OKKx6",
+      "expanded_url" : "http://buff.ly/10Y5oRg",
+      "display_url" : "buff.ly/10Y5oRg"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339804634011025409",
+  "text" : "Stop following directions and start designing http://t.co/IyNL8OKKx6",
+  "id" : 339804634011025409,
+  "created_at" : "Wed May 29 18:05:12 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Pablo Merino ",
+      "screen_name" : "_pmerino",
+      "indices" : [ 0, 9 ],
+      "id_str" : "538173467",
+      "id" : 538173467
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339799940073144320",
+  "in_reply_to_user_id" : 538173467,
+  "text" : "@_pmerino good for you then :)",
+  "id" : 339799940073144320,
+  "created_at" : "Wed May 29 17:46:33 +0000 2013",
+  "in_reply_to_screen_name" : "_pmerino",
+  "in_reply_to_user_id_str" : "538173467",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Pablo Merino ",
+      "screen_name" : "_pmerino",
+      "indices" : [ 0, 9 ],
+      "id_str" : "538173467",
+      "id" : 538173467
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339799633683419136",
+  "in_reply_to_user_id" : 538173467,
+  "text" : "@_pmerino I get some from time to time usually it\u2019s via LinkedIn from poor local IT firms. Who want me in office, full time, and for low pay",
+  "id" : 339799633683419136,
+  "created_at" : "Wed May 29 17:45:20 +0000 2013",
+  "in_reply_to_screen_name" : "_pmerino",
+  "in_reply_to_user_id_str" : "538173467",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 20, 42 ],
+      "url" : "http://t.co/AswtreNAyh",
+      "expanded_url" : "http://airmailapp.info",
+      "display_url" : "airmailapp.info"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339797944167432192",
+  "text" : "Airmail looks great http://t.co/AswtreNAyh",
+  "id" : 339797944167432192,
+  "created_at" : "Wed May 29 17:38:37 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 30, 52 ],
+      "url" : "http://t.co/tBb77diXN1",
+      "expanded_url" : "http://buff.ly/10Y5o3A",
+      "display_url" : "buff.ly/10Y5o3A"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339756538178699264",
+  "text" : "Starter's guide to iOS design http://t.co/tBb77diXN1",
+  "id" : 339756538178699264,
+  "created_at" : "Wed May 29 14:54:05 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 45, 67 ],
+      "url" : "http://t.co/QTHPFlF4qD",
+      "expanded_url" : "http://buff.ly/18nkbxz",
+      "display_url" : "buff.ly/18nkbxz"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339683820389400576",
+  "text" : "How to work remotely as a software developer http://t.co/QTHPFlF4qD",
+  "id" : 339683820389400576,
+  "created_at" : "Wed May 29 10:05:08 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 22, 44 ],
+      "url" : "http://t.co/JjQX6YyXsf",
+      "expanded_url" : "http://buff.ly/18nk84P",
+      "display_url" : "buff.ly/18nk84P"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339488516734062592",
+  "text" : "Memory allocators 101 http://t.co/JjQX6YyXsf",
+  "id" : 339488516734062592,
+  "created_at" : "Tue May 28 21:09:04 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rakhim Davletkaliyev",
+      "screen_name" : "freetonik",
+      "indices" : [ 0, 10 ],
+      "id_str" : "9161642",
+      "id" : 9161642
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339464931797786624",
+  "geo" : {
+  },
+  "id_str" : "339467072255954945",
+  "in_reply_to_user_id" : 9161642,
+  "text" : "@freetonik but whyyy?",
+  "id" : 339467072255954945,
+  "in_reply_to_status_id" : 339464931797786624,
+  "created_at" : "Tue May 28 19:43:51 +0000 2013",
+  "in_reply_to_screen_name" : "freetonik",
+  "in_reply_to_user_id_str" : "9161642",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 33, 55 ],
+      "url" : "http://t.co/RZp37f1wgV",
+      "expanded_url" : "http://buff.ly/10Y5fxj",
+      "display_url" : "buff.ly/10Y5fxj"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339442226084077568",
+  "text" : "An intervention for ActiveRecord http://t.co/RZp37f1wgV",
+  "id" : 339442226084077568,
+  "created_at" : "Tue May 28 18:05:07 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steve Klabnik",
+      "screen_name" : "steveklabnik",
+      "indices" : [ 0, 13 ],
+      "id_str" : "22386062",
+      "id" : 22386062
+    }, {
+      "name" : "Duolingo",
+      "screen_name" : "duolingo",
+      "indices" : [ 14, 23 ],
+      "id_str" : "107238136",
+      "id" : 107238136
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339440685121929216",
+  "geo" : {
+  },
+  "id_str" : "339441359872196608",
+  "in_reply_to_user_id" : 22386062,
+  "text" : "@steveklabnik @duolingo be a lot of grammar, but a little more than there is now would do.",
+  "id" : 339441359872196608,
+  "in_reply_to_status_id" : 339440685121929216,
+  "created_at" : "Tue May 28 18:01:41 +0000 2013",
+  "in_reply_to_screen_name" : "steveklabnik",
+  "in_reply_to_user_id_str" : "22386062",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steve Klabnik",
+      "screen_name" : "steveklabnik",
+      "indices" : [ 0, 13 ],
+      "id_str" : "22386062",
+      "id" : 22386062
+    }, {
+      "name" : "Duolingo",
+      "screen_name" : "duolingo",
+      "indices" : [ 14, 23 ],
+      "id_str" : "107238136",
+      "id" : 107238136
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339440685121929216",
+  "geo" : {
+  },
+  "id_str" : "339441348681801728",
+  "in_reply_to_user_id" : 22386062,
+  "text" : "@steveklabnik @duolingo of course learning grammar alone is a no-way, but so is translate-only thing. I think both should be, there \u2026",
+  "id" : 339441348681801728,
+  "in_reply_to_status_id" : 339440685121929216,
+  "created_at" : "Tue May 28 18:01:38 +0000 2013",
+  "in_reply_to_screen_name" : "steveklabnik",
+  "in_reply_to_user_id_str" : "22386062",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steve Klabnik",
+      "screen_name" : "steveklabnik",
+      "indices" : [ 0, 13 ],
+      "id_str" : "22386062",
+      "id" : 22386062
+    }, {
+      "name" : "Duolingo",
+      "screen_name" : "duolingo",
+      "indices" : [ 81, 90 ],
+      "id_str" : "107238136",
+      "id" : 107238136
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339436870423416833",
+  "geo" : {
+  },
+  "id_str" : "339440320167174145",
+  "in_reply_to_user_id" : 22386062,
+  "text" : "@steveklabnik (leaving the fact some sentences are nonsense) the bad thing about @duolingo is that there isn\u2019t really a lot of grammar stuff",
+  "id" : 339440320167174145,
+  "in_reply_to_status_id" : 339436870423416833,
+  "created_at" : "Tue May 28 17:57:33 +0000 2013",
+  "in_reply_to_screen_name" : "steveklabnik",
+  "in_reply_to_user_id_str" : "22386062",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Erik Bryn",
+      "screen_name" : "ebryn",
+      "indices" : [ 3, 9 ],
+      "id_str" : "3594",
+      "id" : 3594
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 44, 66 ],
+      "url" : "http://t.co/hKYtu1Y7mS",
+      "expanded_url" : "http://bit.ly/11vbmPn",
+      "display_url" : "bit.ly/11vbmPn"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339418962741821441",
+  "text" : "RT @ebryn: We\u2019ve released Ember.js 1.0 RC4! http://t.co/hKYtu1Y7mS Unfortunately there was a perf regression &amp; RC5 will arrive soon. Fix is\u2026",
+  "retweeted_status" : {
+    "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 33, 55 ],
+        "url" : "http://t.co/hKYtu1Y7mS",
+        "expanded_url" : "http://bit.ly/11vbmPn",
+        "display_url" : "bit.ly/11vbmPn"
+      } ]
+    },
+    "geo" : {
+    },
+    "id_str" : "339417744225210369",
+    "text" : "We\u2019ve released Ember.js 1.0 RC4! http://t.co/hKYtu1Y7mS Unfortunately there was a perf regression &amp; RC5 will arrive soon. Fix is in master.",
+    "id" : 339417744225210369,
+    "created_at" : "Tue May 28 16:27:50 +0000 2013",
+    "user" : {
+      "name" : "Erik Bryn",
+      "screen_name" : "ebryn",
+      "protected" : false,
+      "id_str" : "3594",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3582352883/9f2e186bb1fb3e27c9b2e1923b1ba43a_normal.jpeg",
+      "id" : 3594,
+      "verified" : false
+    }
+  },
+  "id" : 339418962741821441,
+  "created_at" : "Tue May 28 16:32:41 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339410701108002819",
+  "text" : "Opera 15 is probably the first version of Opera done right: cute UI &amp; WebKit inside.",
+  "id" : 339410701108002819,
+  "created_at" : "Tue May 28 15:59:51 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 36, 58 ],
+      "url" : "http://t.co/p1XrVei9B5",
+      "expanded_url" : "http://buff.ly/10Y5dFu",
+      "display_url" : "buff.ly/10Y5dFu"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339394138837512192",
+  "text" : "Functional programming in 5 minutes http://t.co/p1XrVei9B5",
+  "id" : 339394138837512192,
+  "created_at" : "Tue May 28 14:54:02 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Hunter Dolan",
+      "screen_name" : "hunterhdolan",
+      "indices" : [ 0, 13 ],
+      "id_str" : "84687985",
+      "id" : 84687985
+    }, {
+      "name" : "Seb Jachec",
+      "screen_name" : "Iamsebj",
+      "indices" : [ 24, 32 ],
+      "id_str" : "83568175",
+      "id" : 83568175
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339336870506938369",
+  "geo" : {
+  },
+  "id_str" : "339387740481273856",
+  "in_reply_to_user_id" : 84687985,
+  "text" : "@hunterhdolan oh right. @Iamsebj, congrats to you as well :)",
+  "id" : 339387740481273856,
+  "in_reply_to_status_id" : 339336870506938369,
+  "created_at" : "Tue May 28 14:28:37 +0000 2013",
+  "in_reply_to_screen_name" : "hunterhdolan",
+  "in_reply_to_user_id_str" : "84687985",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 26, 48 ],
+      "url" : "http://t.co/UflxSB1pBa",
+      "expanded_url" : "http://buff.ly/11rRyfU",
+      "display_url" : "buff.ly/11rRyfU"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339321423308926976",
+  "text" : "Growing open source seeds http://t.co/UflxSB1pBa",
+  "id" : 339321423308926976,
+  "created_at" : "Tue May 28 10:05:06 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "life:) Belarus",
+      "screen_name" : "life_belarus",
+      "indices" : [ 0, 13 ],
+      "id_str" : "47557224",
+      "id" : 47557224
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339268713016594434",
+  "in_reply_to_user_id" : 47557224,
+  "text" : "@life_belarus \u0443 \u0432\u0430\u0441 \u0432\u0441\u0435 \u0435\u0449\u0435 \u043D\u0435\u0442 \u043D\u0430\u043D\u043E\u0441\u0438\u043C?",
+  "id" : 339268713016594434,
+  "created_at" : "Tue May 28 06:35:39 +0000 2013",
+  "in_reply_to_screen_name" : "life_belarus",
+  "in_reply_to_user_id_str" : "47557224",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "velcom",
+      "screen_name" : "by_velcom",
+      "indices" : [ 0, 10 ],
+      "id_str" : "299031147",
+      "id" : 299031147
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339265762009169920",
+  "geo" : {
+  },
+  "id_str" : "339266224796102656",
+  "in_reply_to_user_id" : 299031147,
+  "text" : "@by_velcom \u0437\u0430\u0444\u043E\u043B\u043B\u043E\u0432\u044C\u0442\u0435 \u043C\u0435\u043D\u044F, \u0447\u0442\u043E \u043B\u0438, \u0447\u0442\u043E\u0431\u044B \u043C\u043E\u0436\u043D\u043E \u0431\u044B\u043B\u043E \u0434\u043C \u043E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C.",
+  "id" : 339266224796102656,
+  "in_reply_to_status_id" : 339265762009169920,
+  "created_at" : "Tue May 28 06:25:45 +0000 2013",
+  "in_reply_to_screen_name" : "by_velcom",
+  "in_reply_to_user_id_str" : "299031147",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "velcom",
+      "screen_name" : "by_velcom",
+      "indices" : [ 0, 10 ],
+      "id_str" : "299031147",
+      "id" : 299031147
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339264358318239744",
+  "in_reply_to_user_id" : 299031147,
+  "text" : "@by_velcom \u0447\u0442\u043E \u0443 \u0432\u0430\u0441 \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C? \u0423\u0436\u0435 \u043F\u043E\u0447\u0442\u0438 \u0441\u0443\u0442\u043A\u0438 \u043D\u0435\u0442 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u0430 \u043D\u0430 \u0430\u0439\u0444\u043E\u043D\u0435.",
+  "id" : 339264358318239744,
+  "created_at" : "Tue May 28 06:18:20 +0000 2013",
+  "in_reply_to_screen_name" : "by_velcom",
+  "in_reply_to_user_id_str" : "299031147",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 33, 55 ],
+      "url" : "http://t.co/hLxegnO5JJ",
+      "expanded_url" : "http://buff.ly/10Y58BJ",
+      "display_url" : "buff.ly/10Y58BJ"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339126125181681664",
+  "text" : "Simplifying for the wrong reason http://t.co/hLxegnO5JJ",
+  "id" : 339126125181681664,
+  "created_at" : "Mon May 27 21:09:03 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mocha",
+      "screen_name" : "WeAreMocha",
+      "indices" : [ 0, 11 ],
+      "id_str" : "710718344",
+      "id" : 710718344
+    }, {
+      "name" : "TL;DR",
+      "screen_name" : "TLDR_App",
+      "indices" : [ 12, 21 ],
+      "id_str" : "930708889",
+      "id" : 930708889
+    }, {
+      "name" : "Pablo Merino ",
+      "screen_name" : "_pmerino",
+      "indices" : [ 35, 44 ],
+      "id_str" : "538173467",
+      "id" : 538173467
+    }, {
+      "name" : "Hunter Dolan",
+      "screen_name" : "hunterhdolan",
+      "indices" : [ 45, 58 ],
+      "id_str" : "84687985",
+      "id" : 84687985
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339089513076912128",
+  "geo" : {
+  },
+  "id_str" : "339099030019768320",
+  "in_reply_to_user_id" : 710718344,
+  "text" : "@WeAreMocha @TLDR_App congrats! cc @_pmerino @hunterhdolan",
+  "id" : 339099030019768320,
+  "in_reply_to_status_id" : 339089513076912128,
+  "created_at" : "Mon May 27 19:21:23 +0000 2013",
+  "in_reply_to_screen_name" : "WeAreMocha",
+  "in_reply_to_user_id_str" : "710718344",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 63, 85 ],
+      "url" : "http://t.co/Ml74JYsgGD",
+      "expanded_url" : "http://buff.ly/1ar4FgQ",
+      "display_url" : "buff.ly/1ar4FgQ"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339079826331807745",
+  "text" : "Nomad \u2014 world-class command line utilities for iOS development http://t.co/Ml74JYsgGD",
+  "id" : 339079826331807745,
+  "created_at" : "Mon May 27 18:05:05 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u2605",
+      "screen_name" : "deniamfm",
+      "indices" : [ 0, 9 ],
+      "id_str" : "316317038",
+      "id" : 316317038
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339060747487301633",
+  "geo" : {
+  },
+  "id_str" : "339061036369981440",
+  "in_reply_to_user_id" : 316317038,
+  "text" : "@deniamfm \u043D\u0435\u0434\u0435\u043B\u0438*",
+  "id" : 339061036369981440,
+  "in_reply_to_status_id" : 339060747487301633,
+  "created_at" : "Mon May 27 16:50:25 +0000 2013",
+  "in_reply_to_screen_name" : "deniamfm",
+  "in_reply_to_user_id_str" : "316317038",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u2605",
+      "screen_name" : "deniamfm",
+      "indices" : [ 0, 9 ],
+      "id_str" : "316317038",
+      "id" : 316317038
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339060747487301633",
+  "geo" : {
+  },
+  "id_str" : "339061020423237632",
+  "in_reply_to_user_id" : 316317038,
+  "text" : "@deniamfm \u0434\u043E\u0431\u0440\u043E \u043F\u043E\u0436\u0430\u043B\u043E\u0432\u0430\u0442\u044C \u0432 \u043C\u0435\u0441\u0442\u043E, \u0433\u0434\u0435 \u0432 21-\u043C \u0432\u0435\u043A\u0435 \u0434\u043E \u0441\u0438\u0445 \u043F\u043E\u0440 \u043E\u0442\u043A\u043B\u044E\u0447\u0430\u044E\u0442 \u0433\u043E\u0440\u044F\u0447\u0443\u044E \u0432\u043E\u0434\u0443 \u043D\u0430 \u0434\u0432\u0435 \u0434\u0435\u043D\u0435\u043B\u0438!",
+  "id" : 339061020423237632,
+  "in_reply_to_status_id" : 339060747487301633,
+  "created_at" : "Mon May 27 16:50:21 +0000 2013",
+  "in_reply_to_screen_name" : "deniamfm",
+  "in_reply_to_user_id_str" : "316317038",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "339051380994105344",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u0432\u043E\u0442 \u043A\u0441\u0442\u0430\u0442\u0438, MC 3DS \u0443 \u0432\u0430\u0441 \u0435\u0441\u0442\u044C, \u0430 \u0447\u0442\u043E \u043D\u0430\u0441\u0447\u0435\u0442 VbV? \u0418 \u0447\u0438\u043F\u043E\u0432\u0430\u043D\u043D\u044B\u0445 \u043A\u0430\u0440\u0442?",
+  "id" : 339051380994105344,
+  "created_at" : "Mon May 27 16:12:03 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 68, 90 ],
+      "url" : "http://t.co/ZbCOztHCQ2",
+      "expanded_url" : "http://www.americanexpress.ru/personal/traveling/bureau/",
+      "display_url" : "americanexpress.ru/personal/trave\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "339050333999337473",
+  "geo" : {
+  },
+  "id_str" : "339050967364411392",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u0437\u043D\u0430\u043A\u043E\u043C\u044B\u0439 \u0438\u0437 \u0420\u043E\u0441\u0441\u0438\u0438, \u0443 \u043D\u0435\u0433\u043E \u043A\u0430\u043A\u0430\u044F-\u0442\u043E \u043F\u0440\u043E\u0441\u0442\u0430\u044F Amex \u043A\u0430\u0440\u0442\u0430. http://t.co/ZbCOztHCQ2 \u201C\u0437\u0430\u043C\u0435\u043D\u0430 \u043F\u043E\u0442\u0435\u0440\u044F\u043D\u043D\u043E\u0439 \u0438\u043B\u0438 \u0443\u043A\u0440\u0430\u0434\u0435\u043D\u043D\u043E\u0439 \u043A\u0430\u0440\u0442\u044B\u201D",
+  "id" : 339050967364411392,
+  "in_reply_to_status_id" : 339050333999337473,
+  "created_at" : "Mon May 27 16:10:24 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339042486443966464",
+  "geo" : {
+  },
+  "id_str" : "339049703595450368",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u0432 Amex \u0435\u0449\u0435 \u043F\u0440\u0438\u043A\u043E\u043B\u044C\u043D\u043E \u0447\u0442\u043E \u043E\u043D\u0438 \u043A\u0430\u043A \u0441\u043E\u0437\u0434\u0430\u043D\u044B \u0434\u043B\u044F \u043F\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0439. \u0421 \u043D\u0438\u043C\u0438 \u0438 \u0441\u0442\u0440\u0430\u0445\u043E\u0432\u043A\u0430 \u0435\u0441\u0442\u044C, \u0438 \u0441\u043A\u0438\u0434\u043A\u0438 \u043D\u0430 \u0430\u0432\u0438\u0430\u0431\u0438\u043B\u0435\u0442\u044B",
+  "id" : 339049703595450368,
+  "in_reply_to_status_id" : 339042486443966464,
+  "created_at" : "Mon May 27 16:05:23 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339042486443966464",
+  "geo" : {
+  },
+  "id_str" : "339049076689604608",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u0441\u043F\u0440\u043E\u0441\u0438\u043B \u0442\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u043E \u0443 \u0438\u0445 \u0441\u0430\u043F\u043F\u043E\u0440\u0442\u0430, \u0441\u043A\u0430\u0437\u0430\u043B\u0438 \u0447\u0442\u043E \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043B\u044C\u043D\u043E \u0442\u0430\u043A\u043E\u0435 \u0435\u0441\u0442\u044C.",
+  "id" : 339049076689604608,
+  "in_reply_to_status_id" : 339042486443966464,
+  "created_at" : "Mon May 27 16:02:53 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 44, 67 ],
+      "url" : "https://t.co/j8DE2goiSa",
+      "expanded_url" : "https://search.americanexpress.com/app/answers/display/a_id/6659/kw/emergency%20card%20replacement/session/L3RpbWUvMTM2OTY3MDE2MS9zaWQvZnNsNTNmcmw%3D",
+      "display_url" : "search.americanexpress.com/app/answers/di\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "339042486443966464",
+  "geo" : {
+  },
+  "id_str" : "339048951988756481",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u0443 \u043D\u0438\u0445 \u043D\u0430 \u0441\u0430\u0439\u0442\u0435 \u043D\u0430\u0448\u0435\u043B \u0442\u043E\u043B\u044C\u043A\u043E \u044D\u0442\u043E https://t.co/j8DE2goiSa \u041F\u0440\u043E \u044D\u043A\u0441\u043F\u0440\u0435\u0441\u0441 \u0437\u0430\u043C\u0435\u043D\u0443 \u0432\u0441\u0435\u0445 \u043A\u0430\u0440\u0442 \u0440\u0430\u0441\u0441\u043A\u0430\u0437\u044B\u0432\u0430\u043B \u0437\u043D\u0430\u043A\u043E\u043C\u044B\u0439, \u0443 \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E Amex",
+  "id" : 339048951988756481,
+  "in_reply_to_status_id" : 339042486443966464,
+  "created_at" : "Mon May 27 16:02:24 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alfa-Bank Belarus",
+      "screen_name" : "AlfabankBY",
+      "indices" : [ 0, 11 ],
+      "id_str" : "180268172",
+      "id" : 180268172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "339029126625234944",
+  "geo" : {
+  },
+  "id_str" : "339036684442292224",
+  "in_reply_to_user_id" : 180268172,
+  "text" : "@AlfabankBY \u0437\u043D\u0430\u0435\u0442\u0435 \u043B\u0438 \u0432\u044B \u0447\u0442\u043E \u0441 \u043B\u044E\u0431\u043E\u0439 (\u0430 \u043D\u0435 \u0442\u043E\u043B\u044C\u043A\u043E \u043F\u0440\u0435\u043C\u0438\u0443\u043C \u043A\u043B\u0430\u0441\u0441\u0430) Amex \u0441\u0434\u0435\u043B\u0430\u044E\u0442 \u0442\u043E\u0436\u0435 \u0441\u0430\u043C\u043E\u0435. \u0410 \u0432 \u0411\u0435\u043B\u0430\u0440\u0443\u0441\u0438 \u0438\u0445 \u0432\u043E\u043E\u0431\u0449\u0435 \u043D\u0438 \u043E\u0434\u0438\u043D \u0431\u0430\u043D\u043A\u0435 \u043D\u0435 \u0434\u0435\u043B\u0430\u0435\u0442 :|",
+  "id" : 339036684442292224,
+  "in_reply_to_status_id" : 339029126625234944,
+  "created_at" : "Mon May 27 15:13:39 +0000 2013",
+  "in_reply_to_screen_name" : "AlfabankBY",
+  "in_reply_to_user_id_str" : "180268172",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "John McDowall",
+      "screen_name" : "MrMcDowall",
+      "indices" : [ 3, 14 ],
+      "id_str" : "139159766",
+      "id" : 139159766
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "338742279449739265",
+  "text" : "RT @MrMcDowall: Here\u2019s an idea on how to prevent radicalization: stop traipsing around the world blowing up civilians.",
+  "retweeted_status" : {
+    "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : {
+    },
+    "id_str" : "338738093186244608",
+    "text" : "Here\u2019s an idea on how to prevent radicalization: stop traipsing around the world blowing up civilians.",
+    "id" : 338738093186244608,
+    "created_at" : "Sun May 26 19:27:09 +0000 2013",
+    "user" : {
+      "name" : "John McDowall",
+      "screen_name" : "MrMcDowall",
+      "protected" : false,
+      "id_str" : "139159766",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000119571144/3dc5933b5741b2816813f865ab3a7127_normal.jpeg",
+      "id" : 139159766,
+      "verified" : false
+    }
+  },
+  "id" : 338742279449739265,
+  "created_at" : "Sun May 26 19:43:47 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "338730718828064768",
+  "text" : "The laws that were meant to \u201Cprotect\u201D children effectively prevent them from starting a business and financing thieves (govt) though taxes.",
+  "id" : 338730718828064768,
+  "created_at" : "Sun May 26 18:57:51 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "338730195924185089",
+  "text" : "Worse is situation for these who want to work for themselves. Reg as a sole trader? No you can\u2019t. Work anyway? Then you\u2019ll get fined/jailed.",
+  "id" : 338730195924185089,
+  "created_at" : "Sun May 26 18:55:46 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 116, 138 ],
+      "url" : "http://t.co/b79esZO0Vw",
+      "expanded_url" : "http://seclists.org/fulldisclosure/2013/May/163",
+      "display_url" : "seclists.org/fulldisclosure\u2026"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "338729487770464256",
+  "text" : "A guy discovered a vuln in PayPal but couldn\u2019t get paid bc he\u2019s not 18. Do kids rly need this form of \u201Cprotection\u201D? http://t.co/b79esZO0Vw",
+  "id" : 338729487770464256,
+  "created_at" : "Sun May 26 18:52:57 +0000 2013",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Denis Evsyukov",
+      "screen_name" : "Juev",
+      "indices" : [ 0, 5 ],
+      "id_str" : "15882732",
+      "id" : 15882732
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "338594160569368578",
+  "geo" : {
+  },
+  "id_str" : "338594266605563905",
+  "in_reply_to_user_id" : 15882732,
+  "text" : "@Juev :)",
+  "id" : 338594266605563905,
+  "in_reply_to_status_id" : 338594160569368578,
+  "created_at" : "Sun May 26 09:55:38 +0000 2013",
+  "in_reply_to_screen_name" : "Juev",
+  "in_reply_to_user_id_str" : "15882732",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Honza Pokorny",
+      "screen_name" : "_honza",
+      "indices" : [ 0, 7 ],
+      "id_str" : "15277447",
+      "id" : 15277447
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "338462127633350656",
+  "geo" : {
+  },
+  "id_str" : "338566043217850368",
+  "in_reply_to_user_id" : 15277447,
+  "text" : "@_honza I like to star. :)",
+  "id" : 338566043217850368,
+  "in_reply_to_status_id" : 338462127633350656,
+  "created_at" : "Sun May 26 08:03:29 +0000 2013",
+  "in_reply_to_screen_name" : "_honza",
+  "in_reply_to_user_id_str" : "15277447",
+  "user" : {
+    "name" : "Gosha Arinich",
+    "screen_name" : "goshakkk",
+    "protected" : false,
+    "id_str" : "61236914",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1499752440/eightbit-a72a5ffb-8a3e-40f3-9288-e5e02d344a7c_normal.png",
+    "id" : 61236914,
+    "verified" : false
+  }
+}, {
   "source" : "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
   "entities" : {
     "user_mentions" : [ ],
@@ -951,7 +3170,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -985,7 +3204,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dave",
+      "name" : "dave flaherty",
       "screen_name" : "drabshadow",
       "indices" : [ 0, 11 ],
       "id_str" : "449312621",
@@ -1025,7 +3244,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dave",
+      "name" : "dave flaherty",
       "screen_name" : "drabshadow",
       "indices" : [ 0, 11 ],
       "id_str" : "449312621",
@@ -1059,7 +3278,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dave",
+      "name" : "dave flaherty",
       "screen_name" : "drabshadow",
       "indices" : [ 0, 11 ],
       "id_str" : "449312621",
@@ -1099,7 +3318,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -1133,7 +3352,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dave",
+      "name" : "dave flaherty",
       "screen_name" : "drabshadow",
       "indices" : [ 0, 11 ],
       "id_str" : "449312621",
@@ -1173,7 +3392,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dave",
+      "name" : "dave flaherty",
       "screen_name" : "drabshadow",
       "indices" : [ 0, 11 ],
       "id_str" : "449312621",
@@ -1219,7 +3438,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "322639225",
       "id" : 322639225
     }, {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 9, 23 ],
       "id_str" : "173238497",
@@ -2477,7 +4696,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -3012,7 +5231,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -3221,6 +5440,8 @@ Grailbird.data.tweets_2013_05 =
     "urls" : [ ]
   },
   "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 53.9129325893, 27.4491958855 ]
   },
   "id_str" : "335795809490714624",
   "text" : "Made a simple iOS app with RubyMotion which barely does anything. Oh boy, MacRuby-ish thing feels so much better than Objective-C.",
@@ -3816,7 +6037,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -4070,7 +6291,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -4186,7 +6407,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "334684448996065281",
   "text" : "RT @begoon: Skype with care \u2013 Microsoft is reading everything you write http://t.co/dUDwu1TcON",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter-chrome.com\" rel=\"nofollow\">chrome-share</a>",
+    "source" : "<a href=\"https://chrome.google.com/webstore/detail/tweet-this-page/ppilhaolhbpfembaoedfdbkegfedfgip\" rel=\"nofollow\">Tweet-this-page</a>",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4697,7 +6918,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "raganwald",
       "protected" : false,
       "id_str" : "18137723",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3209102549/c119a72bc8341caaef42bc843b0ced00_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000097575382/e0cea4b8689234539fc765b1eda11108_normal.png",
       "id" : 18137723,
       "verified" : false
     }
@@ -5424,6 +7645,8 @@ Grailbird.data.tweets_2013_05 =
   },
   "in_reply_to_status_id_str" : "333995304468758528",
   "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 53.9132700809, 27.4491705489 ]
   },
   "id_str" : "333997175178674178",
   "in_reply_to_user_id" : 35193525,
@@ -5907,7 +8130,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2731353536/d90565944c47034fd7288f40c09bb2c4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000002624014/7593cf26bb65bd1f61c4274391bf9132_normal.jpeg",
       "id" : 18247541,
       "verified" : false
     }
@@ -6344,7 +8567,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "homakov",
       "protected" : false,
       "id_str" : "86890115",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3601486840/ce804f24fafc54a4190c1634ed031180_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000093304110/b0ee6aef263c73ec85710e426f7477e4_normal.jpeg",
       "id" : 86890115,
       "verified" : false
     }
@@ -6653,7 +8876,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6743,7 +8966,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -7336,7 +9559,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -7398,7 +9621,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8119,7 +10342,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "newsycombinator",
       "protected" : false,
       "id_str" : "14335498",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/52589204/y_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000017952599/cf443a6da9a74e5c9c1fcddf422ebb0e_normal.png",
       "id" : 14335498,
       "verified" : false
     }
@@ -8139,7 +10362,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8173,7 +10396,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8301,7 +10524,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2731353536/d90565944c47034fd7288f40c09bb2c4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000002624014/7593cf26bb65bd1f61c4274391bf9132_normal.jpeg",
       "id" : 18247541,
       "verified" : false
     }
@@ -9965,7 +12188,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "daryl",
       "protected" : false,
       "id_str" : "348429830",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3582914399/b2def345eb55f55443030ee6e4b5f79d_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3759223059/f79ee18136aba2e4d117e513ac8bce97_normal.jpeg",
       "id" : 348429830,
       "verified" : false
     }
@@ -10867,7 +13090,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "_dte",
       "protected" : false,
       "id_str" : "23082430",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3397045978/1449f27a46290fde2f74991d84205e9f_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000147849125/75815bea514eee02e2ec551374195be5_normal.jpeg",
       "id" : 23082430,
       "verified" : false
     }
@@ -11096,7 +13319,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 3, 17 ],
       "id_str" : "173238497",
@@ -11147,11 +13370,11 @@ Grailbird.data.tweets_2013_05 =
     "id" : 330613916763820032,
     "created_at" : "Sat May 04 09:24:34 +0000 2013",
     "user" : {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "protected" : false,
       "id_str" : "173238497",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2307723570/d2ths9isvmbczf0zxftu_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000122979060/c91e9e9a9f36887f3b1d54f249e15092_normal.jpeg",
       "id" : 173238497,
       "verified" : false
     }
@@ -11317,7 +13540,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11351,7 +13574,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11438,7 +13661,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11659,7 +13882,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11721,7 +13944,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11829,6 +14052,8 @@ Grailbird.data.tweets_2013_05 =
   },
   "in_reply_to_status_id_str" : "330023421578731520",
   "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 53.9130157753, 27.4494703204 ]
   },
   "id_str" : "330023898143924224",
   "in_reply_to_user_id" : 8675502,
@@ -12113,7 +14338,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dmitry Kurilo",
+      "name" : "Dima",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -12584,7 +14809,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2731353536/d90565944c47034fd7288f40c09bb2c4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000002624014/7593cf26bb65bd1f61c4274391bf9132_normal.jpeg",
       "id" : 18247541,
       "verified" : false
     }
@@ -12820,7 +15045,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2731353536/d90565944c47034fd7288f40c09bb2c4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000002624014/7593cf26bb65bd1f61c4274391bf9132_normal.jpeg",
       "id" : 18247541,
       "verified" : false
     }
@@ -12942,6 +15167,8 @@ Grailbird.data.tweets_2013_05 =
       } ]
     },
     "geo" : {
+      "type" : "Point",
+      "coordinates" : [ -37.9007413751, 145.1430323069 ]
     },
     "id_str" : "329340767732658177",
     "text" : "You can still get Multitenancy with Rails for still only $10 during #railsconf. Use coupon \"railsconf\" @ http://t.co/BvhHHfQLoA",
@@ -12952,7 +15179,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "ryanbigg",
       "protected" : false,
       "id_str" : "14506011",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3635015016/bfe58238414baf7cb45ab5fd7b1909e9_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261574630139/89da8eec2d2380ecf45c83d924587dcc_normal.jpeg",
       "id" : 14506011,
       "verified" : false
     }
