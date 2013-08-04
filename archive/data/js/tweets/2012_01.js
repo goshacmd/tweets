@@ -873,7 +873,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -907,7 +907,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -941,7 +941,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -3115,7 +3115,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -3705,7 +3705,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5064,7 +5064,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5098,7 +5098,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5519,7 +5519,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -5553,7 +5553,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -5853,7 +5853,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5887,7 +5887,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8828,7 +8828,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "jonikorpi",
       "protected" : false,
       "id_str" : "15907249",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000001243637/9a5db5a6a3a10ff10a285e7661a0b3fc_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000180843373/bb19071d5f373f733b445fed19eb18e2_normal.jpeg",
       "id" : 15907249,
       "verified" : false
     }
@@ -9133,7 +9133,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -9412,7 +9412,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -9446,7 +9446,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -9480,7 +9480,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -9514,7 +9514,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -9548,7 +9548,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -9888,7 +9888,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -10086,7 +10086,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 85, 99 ],
       "id_str" : "173238497",

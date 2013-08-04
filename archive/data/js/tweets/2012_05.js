@@ -456,7 +456,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -490,7 +490,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -524,7 +524,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -558,7 +558,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -592,7 +592,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -1414,7 +1414,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -1925,7 +1925,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -1959,7 +1959,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2027,7 +2027,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2084,7 +2084,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2118,7 +2118,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2152,7 +2152,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2218,7 +2218,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2252,7 +2252,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2286,7 +2286,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2325,7 +2325,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2359,7 +2359,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2393,7 +2393,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2427,7 +2427,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2461,7 +2461,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2495,7 +2495,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -2534,7 +2534,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -3357,7 +3357,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -4426,7 +4426,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -4460,7 +4460,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5263,7 +5263,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5297,7 +5297,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5637,7 +5637,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5739,7 +5739,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6867,7 +6867,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6941,7 +6941,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -7168,7 +7168,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -7836,7 +7836,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -7870,7 +7870,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -7904,7 +7904,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -8117,7 +8117,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8151,7 +8151,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8185,7 +8185,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8219,7 +8219,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8531,7 +8531,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -8565,7 +8565,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -8599,7 +8599,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -8709,7 +8709,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -11281,7 +11281,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -11315,7 +11315,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -11349,7 +11349,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -11383,7 +11383,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -11666,7 +11666,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11700,7 +11700,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11785,7 +11785,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -11887,7 +11887,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -12412,7 +12412,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -12673,7 +12673,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -13060,7 +13060,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 65, 79 ],
       "id_str" : "173238497",
@@ -13133,7 +13133,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -13167,7 +13167,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -13201,7 +13201,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",

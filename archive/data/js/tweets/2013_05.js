@@ -397,7 +397,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -431,7 +431,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -714,7 +714,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -754,7 +754,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "85319333",
       "id" : 85319333
     }, {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 10, 21 ],
       "id_str" : "180268172",
@@ -788,7 +788,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -822,7 +822,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -856,7 +856,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -890,7 +890,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -1815,7 +1815,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -1847,7 +1847,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -1886,7 +1886,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -1920,7 +1920,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -1954,7 +1954,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -1993,7 +1993,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -2554,7 +2554,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "alexanderkirov",
       "protected" : false,
       "id_str" : "157065548",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3618275999/13871efc3928614d62259cc49c2203eb_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000215975374/57bb6ebb34b5cd9ef153c8de5eac89a0_normal.jpeg",
       "id" : 157065548,
       "verified" : false
     }
@@ -2720,7 +2720,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "SteveStreza",
       "protected" : false,
       "id_str" : "658643",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3660032054/57b58e2e188696032235432ef7d54b8a_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000230312036/d22687c3ef2e709c5a9f354360687dc8_normal.jpeg",
       "id" : 658643,
       "verified" : false
     }
@@ -3170,7 +3170,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -3318,7 +3318,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "538173467",
       "id" : 538173467
     }, {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 10, 24 ],
       "id_str" : "173238497",
@@ -3438,7 +3438,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "322639225",
       "id" : 322639225
     }, {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 9, 23 ],
       "id_str" : "173238497",
@@ -3811,7 +3811,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -4696,7 +4696,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -5050,7 +5050,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
@@ -5231,7 +5231,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6037,7 +6037,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -6291,7 +6291,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8876,7 +8876,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -8966,7 +8966,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -9559,7 +9559,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -9621,7 +9621,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -10362,7 +10362,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -10396,7 +10396,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -12188,7 +12188,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "daryl",
       "protected" : false,
       "id_str" : "348429830",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3759223059/f79ee18136aba2e4d117e513ac8bce97_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000182505255/1c55f35f6df9c89bce12728300aa0161_normal.jpeg",
       "id" : 348429830,
       "verified" : false
     }
@@ -12208,7 +12208,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -12242,7 +12242,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alfa-Bank Belarus",
+      "name" : "\u0410\u043B\u044C\u0444\u0430-\u0411\u0430\u043D\u043A",
       "screen_name" : "AlfabankBY",
       "indices" : [ 0, 11 ],
       "id_str" : "180268172",
@@ -13319,7 +13319,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 3, 17 ],
       "id_str" : "173238497",
@@ -13370,11 +13370,11 @@ Grailbird.data.tweets_2013_05 =
     "id" : 330613916763820032,
     "created_at" : "Sat May 04 09:24:34 +0000 2013",
     "user" : {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "protected" : false,
       "id_str" : "173238497",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000122979060/c91e9e9a9f36887f3b1d54f249e15092_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000189378225/23303397b9cf1ba5b1147d85451d2ab8_normal.jpeg",
       "id" : 173238497,
       "verified" : false
     }
@@ -13540,7 +13540,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -13574,7 +13574,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -13661,7 +13661,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -13882,7 +13882,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -13944,7 +13944,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",
@@ -14338,7 +14338,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dima",
+      "name" : "Dmitry Kurilo",
       "screen_name" : "dmitry_master",
       "indices" : [ 0, 14 ],
       "id_str" : "173238497",

@@ -1177,7 +1177,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "oetsie",
       "protected" : false,
       "id_str" : "41209180",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3630791180/2c0ff8072e9a3386dd52c3772df24787_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000186693828/134e9ac4da78678dcd1445ad436222da_normal.png",
       "id" : 41209180,
       "verified" : false
     }

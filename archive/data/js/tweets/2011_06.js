@@ -938,6 +938,12 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 3, 13 ],
       "id_str" : "62827877",
       "id" : 62827877
+    }, {
+      "name" : "arusanov_ru",
+      "screen_name" : "arusanov_ru",
+      "indices" : [ 16, 28 ],
+      "id_str" : "1620258600",
+      "id" : 1620258600
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -955,7 +961,13 @@ Grailbird.data.tweets_2011_06 =
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "entities" : {
-      "user_mentions" : [ ],
+      "user_mentions" : [ {
+        "name" : "arusanov_ru",
+        "screen_name" : "arusanov_ru",
+        "indices" : [ 1, 13 ],
+        "id_str" : "1620258600",
+        "id" : 1620258600
+      } ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
@@ -1869,7 +1881,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261566498938/7503f6226cd2457318ccb0c36a97ea01_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000222554057/f94ffad161ac04c362355d3a5bb86ca3_normal.jpeg",
       "id" : 6927562,
       "verified" : false
     }
@@ -1958,7 +1970,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Captain Desperation",
+      "name" : "[-1, 1]^4",
       "screen_name" : "mktums",
       "indices" : [ 0, 7 ],
       "id_str" : "88753294",
